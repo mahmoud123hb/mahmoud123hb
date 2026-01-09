@@ -24,7 +24,10 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="Responsive Design" src="https://img.shields.io/badge/-Responsive%20Design-0A66C2?style=flat-square" />
 </p> -->
-<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,python,cpp&perline=5" style="height:113px;"/> </p>
+<!-- <p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,python,cpp&perline=5" style="height:113px;"/> </p> -->
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,python,cpp,git,github,react&perline=5" style="height:113px;"/>
+</p>
 
 
 <h3>🛠️ Frontend Skills</h3>
