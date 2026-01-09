@@ -5,8 +5,7 @@
 
 <p>
   Welcome to my GitHub profile! <br/>
-  I'm <b>Mahmoud Adel El-Sayed</b>, a <b>Frontend Developer</b> from 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> 
+  I'm <b>Mahmoud </b>, a <b>Frontend Developer</b> from 
   <b>Egypt</b>.
 </p>
 
