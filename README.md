@@ -26,7 +26,7 @@
 </p> -->
 <!-- <p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,python,cpp&perline=5" style="height:113px;"/> </p> -->
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,python,cpp,git,github,react&perline=5" style="height:113px;"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,python,git,github&perline=5" style="height:113px;"/>
 </p>
 
 
